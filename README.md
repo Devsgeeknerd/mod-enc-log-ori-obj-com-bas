@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-enc-log-ori-obj-com-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-enc-log-ori-obj-com-bas)
 * [ ] [Por Que Devo me Preocupar Com Encapsulamento?](https://github.com/Devsgeeknerd/cla-por-que-dev-pre-com-enc-enc-log-ori-obj-com-bas) &#128679;
 * [ ] [Atributos de Visibilidade.](https://github.com/Devsgeeknerd/cla-atr-vis-enc-log-ori-obj-com-bas) &#128679;
 * [ ] [Métodos Acessores.](http://github.com/Devsgeeknerd/cla-met-ace-enc-log-ori-obj-com-bas) &#128679;
