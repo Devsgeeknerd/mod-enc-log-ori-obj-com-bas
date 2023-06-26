@@ -10,7 +10,7 @@
 * [x] [Encapsulamento, Atributos de Visibilidade e UML.](https://github.com/Devsgeeknerd/cla-enc-atr-vis-uml-enc-log-ori-obj-com-bas)
 * [x] [Entendendo o Encapsulamento.](https://github.com/Devsgeeknerd/cla-ent-enc-enc-log-ori-obj-com-bas)
 * [x] [Definindo Métodos em Nossas em Classes.](https://github.com/Devsgeeknerd/cla-def-met-nos-cla-enc-log-ori-obj-com-bas)
-* [ ] [Utilizando as Nossas Classes.](https://github.com/Devsgeeknerd/cla-uti-nos-cla-enc-log-ori-obj-com-bas) &#128679;
+* [x] [Utilizando as Nossas Classes.](https://github.com/Devsgeeknerd/cla-uti-nos-cla-enc-log-ori-obj-com-bas)
 * [ ] [Construtores e Sobrecargas.](https://github.com/Devsgeeknerd/cla-con-sob-enc-log-ori-obj-com-bas) &#128679;
 * [ ] [Definindo Classes Abstratas.](https://github.com/Devsgeeknerd/cla-def-cla-abs-enc-log-ori-obj-com-bas) &#128679;
 
