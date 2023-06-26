@@ -11,7 +11,7 @@
 * [x] [Entendendo o Encapsulamento.](https://github.com/Devsgeeknerd/cla-ent-enc-enc-log-ori-obj-com-bas)
 * [x] [Definindo Métodos em Nossas em Classes.](https://github.com/Devsgeeknerd/cla-def-met-nos-cla-enc-log-ori-obj-com-bas)
 * [x] [Utilizando as Nossas Classes.](https://github.com/Devsgeeknerd/cla-uti-nos-cla-enc-log-ori-obj-com-bas)
-* [ ] [Construtores e Sobrecargas.](https://github.com/Devsgeeknerd/cla-con-sob-enc-log-ori-obj-com-bas) &#128679;
+* [x] [Construtores e Sobrecargas.](https://github.com/Devsgeeknerd/cla-con-sob-enc-log-ori-obj-com-bas)
 * [ ] [Definindo Classes Abstratas.](https://github.com/Devsgeeknerd/cla-def-cla-abs-enc-log-ori-obj-com-bas) &#128679;
 
 <!-- Informações -->
