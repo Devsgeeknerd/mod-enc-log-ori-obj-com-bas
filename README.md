@@ -4,7 +4,7 @@
 ***Conteúdo do Módulo:***
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-enc-log-ori-obj-com-bas)
-* [ ] [Por Que Devo me Preocupar Com Encapsulamento?](https://github.com/Devsgeeknerd/cla-por-que-dev-pre-com-enc-enc-log-ori-obj-com-bas) &#128679;
+* [x] [Por Que Devo me Preocupar Com Encapsulamento?](https://github.com/Devsgeeknerd/cla-por-que-dev-pre-com-enc-enc-log-ori-obj-com-bas)
 * [ ] [Atributos de Visibilidade.](https://github.com/Devsgeeknerd/cla-atr-vis-enc-log-ori-obj-com-bas) &#128679;
 * [ ] [Métodos Acessores.](http://github.com/Devsgeeknerd/cla-met-ace-enc-log-ori-obj-com-bas) &#128679;
 * [ ] [Encapsulamento, Atributos de Visibilidade e UML.](https://github.com/Devsgeeknerd/cla-enc-atr-vis-uml-enc-log-ori-obj-com-bas) &#128679;
